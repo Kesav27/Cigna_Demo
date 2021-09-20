@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="Cigna_DEMO" fileName="Cigna_DEMO.dll" assemblyName="Cigna_DEMO.dll" id="Project-8D97C645CB000AD" version="19.1.90.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="143395155F3E3A05EC640AC5089F35228F917A">
+    <Assemblies>
+      <Assembly value="Cigna_DEMO.dll" digest="74B98621A91983A4486AA45DAF4F4B79E3FEF4" />
+      <Assembly value="Cigna_DEMO.pdb" digest="BC6CAFD716851025DADE1929CFF714FCBC5366" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>
